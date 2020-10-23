@@ -37,7 +37,7 @@
 <br />
 <br />
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n33ll)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,13 +50,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="" />][website]
+[<img align="left" alt="n33ll.com" width="22px" src="" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-
+[website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
    
